@@ -27,13 +27,6 @@ A real-time collaborative code editor that allows multiple users to write and ed
   - CSS
   - Custom themes (e.g., Dracula theme for CodeMirror)
 
-## Installation
-
-### Prerequisites
-
-- Node.js (>= 14.x)
-- npm (or yarn)
-
 ### Steps
 
 1. **Clone the repository:**
@@ -43,27 +36,27 @@ A real-time collaborative code editor that allows multiple users to write and ed
 ```
 
 2. Navigate to the backend folder and install dependencies:
-   ```
+```
    cd server
    npm install
-  ```
+```
 
 3. Navigate to the frontend folder and install dependencies:
 ```
-cd ../client
-npm install
+    cd ../client
+    npm install
 ```
 
 4. Start the server:
 ```
-cd ../server
-npm start
+  cd ../server
+  npm start
 ```
 
 5. Start the frontend:
 ```
-cd ../client
-npm start
+  cd ../client
+  npm start
 
 ```
 
