@@ -1,14 +1,14 @@
-# Real-Time Collaborative Code Editor
+# SimulCode - Real Time Code Editor
 
 A real-time collaborative code editor that allows multiple users to write and edit code simultaneously. Built with React, Node.js, and Socket.io, this application is perfect for pair programming, coding interviews, or collaborative learning.
 
 ## Features
 
-- **Real-Time Collaboration:** Multiple users can edit code in real-time, seeing each other's changes instantly.
-- **User Avatars:** Each user is represented by an avatar generated from their username.
-- **Room Management:** Create or join rooms using unique Room IDs.
-- **Code Synchronization:** Code updates are synchronized across all connected clients seamlessly.
-- **Responsive Design:** Fully responsive layout suitable for different screen sizes.
+- **Real-Time Collaboration :** Multiple users can edit code in real-time, seeing each other's changes instantly.
+- **User Avatars :** Each user is represented by an avatar generated from their username.
+- **Room Management :** Create or join rooms using unique Room IDs.
+- **Code Synchronization :** Code updates are synchronized across all connected clients seamlessly.
+- **Responsive Design :** Fully responsive layout suitable for different screen sizes.
 
 ## Technologies Used
 
