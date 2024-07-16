@@ -29,7 +29,7 @@ A real-time collaborative code editor that allows multiple users to write and ed
 
 ### Steps
 
-1. **Clone the repository:**
+1. Clone the repository:
 ```
    git clone https://github.com/yourusername/real-time-code-editor.git
    cd real-time-code-editor
@@ -57,18 +57,11 @@ A real-time collaborative code editor that allows multiple users to write and ed
 ```
   cd ../client
   npm start
-
 ```
 
 ## Usage
 
-- Creating a Room : Enter a username and click on "Create a new room" to generate a Room ID.
-- Joining a Room : Paste an existing Room ID and enter a username to join the collaborative coding session.
-- Real-Time Editing : Start coding! Changes will be reflected in real-time for all users in the room.
+- **Creating a Room** : Enter a username and click on "Create a new room" to generate a Room ID.
+- **Joining a Room** : Paste an existing Room ID and enter a username to join the collaborative coding session.
+- **Real-Time Editing** : Start coding! Changes will be reflected in real-time for all users in the room.
 
-## Technologies Used
-- React
-- Redux Toolkit
-- React Router
-- CSS (TailwindCSS for styling)
-- Fetch API for data fetching
