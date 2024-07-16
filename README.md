@@ -1,18 +1,6 @@
 # Real-Time Collaborative Code Editor
 
-![CodeSync Logo](https://your-logo-url.com/logo.png)  <!-- Replace with actual logo URL -->
-
 A real-time collaborative code editor that allows multiple users to write and edit code simultaneously. Built with React, Node.js, and Socket.io, this application is perfect for pair programming, coding interviews, or collaborative learning.
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -52,4 +40,12 @@ A real-time collaborative code editor that allows multiple users to write and ed
 
    ```bash
    git clone https://github.com/yourusername/real-time-code-editor.git
-   cd real-time-code-editor
+   cd real-time-code-editor```
+
+2. Navigate to the backend folder and install dependencies:
+   ```
+   cd server
+   npm install
+  ```
+
+3.  Navigate to the frontend folder and install dependencies:
