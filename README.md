@@ -1,4 +1,4 @@
-# SimulCode - Real Time Code Editor
+# CodeSync - Real Time Code Editor
 
 A real-time collaborative code editor that allows multiple users to write and edit code simultaneously. Built with React, Node.js, and Socket.io, this application is perfect for pair programming, coding interviews, or collaborative learning.
 
@@ -31,8 +31,8 @@ A real-time collaborative code editor that allows multiple users to write and ed
 
 1. Clone the repository:
 ```
-   git clone https://github.com/BhupeshChaudhari/simulcode-real-time-code-editor.git
-   cd real-time-code-editor
+   git clone https://github.com/BhupeshChaudhari/CodeSync.git
+   cd CodeSync
 ```
 
 2. Navigate to the backend folder and install dependencies:
